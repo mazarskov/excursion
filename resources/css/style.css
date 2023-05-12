@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    }
+  
+h1 {
+    font-family: Verdana;
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+    }
+
+p {
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    color: aquamarine;
+    }
+
+video {
+    text-align: center;
+}           
+
+h2 {
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+    text-align: center;
+    }
+
+.text-class {
+    font-family: Verdana;
+    font-size: 21px;
+    font-weight: normal;
+    text-align: center;
+    color: gray;
+}
+
+.test-class {
+    margin-top: 10px;
+}
